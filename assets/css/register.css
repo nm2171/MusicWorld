@@ -1,0 +1,126 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+*:focus {
+    outline: none;
+}
+
+#background {
+	background-color: #000;
+  background-image: url(../images/background.jpg);
+  background-position: center;
+  background-size: cover;
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+#loginContainer * {
+	color: #2F3545;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: normal;
+	line-height: 1em;
+	box-sizing: border-box;
+}
+
+#loginContainer {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	max-width: 1024px;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+	color:    #2F3545;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+ 	color:    #2F3545;
+ 	opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:    #2F3545;
+  opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color:    #2F3545;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+  color:    #2F3545;
+}
+
+#inputContainer {
+  width: 400px;
+  padding: 29px;
+  float: right;
+}
+
+#inputContainer h1,
+#inputContainer h2 {
+	text-align: center;
+	font-weight: bolder;
+}
+
+#inputContainer input[type="text"],
+#inputContainer input[type="email"],
+#inputContainer input[type="password"] {
+	display: block;
+  background-color: transparent;
+  border: 0;
+  border-bottom: 1px solid #2F3545;
+  height: 27px;
+  line-height: 27px;
+  width: 100%;
+}
+
+#inputContainer label {
+	color: #2F3545;
+  font-size: 13px;
+  margin-top: 15px;
+  display: block;
+	font-weight: bold;
+}
+
+#inputContainer button {
+	background-color: transparent;
+  border: 2px solid #28B4C3;
+  border-radius: 250px;
+  color: #28B4C3;
+	font-weight: bold;
+  display: block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  margin: 20px auto;
+  height: 41px;
+  width: 100%;
+}
+
+#inputContainer button:hover {
+	cursor: pointer;
+	color: #fff;
+	background-color: #28B4C3;
+}
+
+.hasAccountText span {
+	font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.hasAccountText {
+	text-align: center;
+}
+
+#registerForm,
+#loginForm {
+	display: none;
+}
+
+#inputContainer .errorMessage {
+  color: #D98C95;
+  font-size: 12px;
+  display: block;
+}
