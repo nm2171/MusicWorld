@@ -1,7 +1,7 @@
 # MusicWorld!
 
 
-![login](https://user-images.githubusercontent.com/101362006/158181488-3c9c7512-a7a5-45be-8839-549fbc0d8005.jpg)
-![browse](https://user-images.githubusercontent.com/101362006/158181541-eef9dc77-0349-43c8-a373-97831e6a4fe8.jpg)
-![album](https://user-images.githubusercontent.com/101362006/158181607-22cb5f78-ad4a-4dbf-99eb-89d9d1fbbe4b.jpg)
-![playlists](https://user-images.githubusercontent.com/101362006/158181654-9a4e3366-a52b-44a8-940f-d98194c87ed4.jpg)
+![login](https://user-images.githubusercontent.com/101362006/158182974-5e0e8023-a43f-43bd-9bb3-0ad9a75e0591.jpg)
+![browse](https://user-images.githubusercontent.com/101362006/158182984-c0fcbd27-d2e1-420f-8429-e48b53fc1d1d.jpg)
+![album](https://user-images.githubusercontent.com/101362006/158182991-daad0ca3-d434-421e-8ab6-566341ebc133.jpg)
+![playlists](https://user-images.githubusercontent.com/101362006/158183000-e60b806a-f1a2-44c1-8a3b-93d815476ea9.jpg)
